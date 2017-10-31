@@ -1,6 +1,6 @@
-### SQuAD_ru
+## SQuAD_ru
 
-## SQuAD dataset partialy translated by google translate to russian language
+### SQuAD dataset partialy translated by google translate to russian language
 
 https://drive.google.com/file/d/0B8dbLrO5-AEGRGZkVklNZ2FMNTQ/view?usp=sharing
 
