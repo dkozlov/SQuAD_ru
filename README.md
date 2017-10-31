@@ -6,4 +6,6 @@ https://drive.google.com/file/d/0B8dbLrO5-AEGRGZkVklNZ2FMNTQ/view?usp=sharing
 
 
 $ wc -l SQuAD_ru.csv
+
+
 80481 SQuAD_ru.csv
