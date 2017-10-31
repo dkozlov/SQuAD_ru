@@ -10,6 +10,6 @@ $ wc -l SQuAD_ru.csv
 
 80481 SQuAD_ru.csv
 
-### SQuAD dataset partialy translated by yandex translate to russian language
+### SQuAD dataset translated by yandex translate to russian language
 
 https://github.com/lightforever/SQUAD_RU/
